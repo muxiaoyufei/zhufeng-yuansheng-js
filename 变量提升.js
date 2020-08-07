@@ -43,17 +43,17 @@
 //   console.log("5");
 // }
 // fn();
-var foo = 1;
-function bar(){
-  console.log("!foo",foo)
-  if(!foo){
-    var foo = 10;
-  }
+// var foo = 1;
+// function bar(){
+//   console.log("!foo",foo)
+//   if(!foo){
+//     var foo = 10;
+//   }
   
-  console.log(foo);
-}
+//   console.log(foo);
+// }
 // console.log(foo);
-bar();
+// bar();
 // console.log(foo);
 // var foo = 1;
 // function bar(){
